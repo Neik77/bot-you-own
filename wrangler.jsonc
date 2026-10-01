@@ -40,7 +40,7 @@
   // account; Jim's terminal deploy uses this one. Remove the block to log nowhere
   // but Workers Logs. Read it under the hood → Audit, or with the queries in docs/CUSTOMIZE.md.
   "d1_databases": [
-    { "binding": "DB", "database_name": "bot-you-own-logs", "database_id": "cc9d43d1-46fa-4c1e-8501-a0565bdd7b77" }
+    { "binding": "DB", "database_name": "bot-you-own-logs", "database_id": "51921950-7e42-41bf-bde2-5be263b81b69" }
   ],
 
   // Plate can keep each meal's photos (so a scale can be zoomed into later) in R2:
